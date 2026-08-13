@@ -1,0 +1,12 @@
+secret.key
+original_hash.txt
+test_evidence.txt
+__pycache__/
+*.pyc
+
+
+backups/
+logs/
+reports/
+*.encrypted
+*.encrypted.encrypted
